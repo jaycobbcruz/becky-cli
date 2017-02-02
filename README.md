@@ -36,10 +36,17 @@ $ what is the time in New York?
 Becky: It is 10:03 A.M.
 
 $ who is Albert Einstein?
-Becky: Albert Einstein (/ˈaɪnstaɪn/; German:  ( listen); 14 March 1879 – 18 April 1955) was a German-born theoretical physicist. He developed the general theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics). :274 Einstein's work is also known for its influence on the philosophy of science. Einstein is best known in popular culture for his mass–energy equivalence formula E = mc2 (which has been dubbed "the world's most famous equation"). He received the 1921 Nobel Prize in Physics "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect", a pivotal step in the evolution of quantum theory.
+Becky: Albert Einstein (/ˈaɪnstaɪn/; German:  ( listen); 14 March 1879 – 18 April 1955) was a 
+German-born theoretical physicist. He developed the general theory of relativity, one of the 
+two pillars of modern physics (alongside quantum mechanics). :274 Einstein's work is also known 
+for its influence on the philosophy of science. Einstein is best known in popular culture for 
+his mass–energy equivalence formula E = mc2 (which has been dubbed "the world's most famous 
+equation"). He received the 1921 Nobel Prize in Physics "for his services to Theoretical Physics, 
+and especially for his discovery of the law of the photoelectric effect", a pivotal step in the 
+evolution of quantum theory.
 
 ```
 
 
 ## Troubleshooting
-If you are receiving message "Error occurred: gaierror(8, 'nodename nor servname provided, or not known')", you will need to wake up the Heroku Dyno by visiting the web interface in https://secure-cove-19746.herokuapp.com/
+If you are receiving message "Error occurred: gaierror(8, 'nodename nor servname provided, or not known')", you will need to wake up the Heroku Dyno by visiting the web interface https://secure-cove-19746.herokuapp.com/
